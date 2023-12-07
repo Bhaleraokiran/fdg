@@ -11,6 +11,33 @@
 .landing-page * {
   box-sizing: border-box;
 }
+
+.landing-page {
+  width: 100%;
+  height: 100vh;
+}
+
+.rectangle-9521 {
+  width: 30%; /* Adjust as needed */
+}
+.rectangle-9521 {
+  left: 50%; /* Adjust as needed */
+  transform: translateX(-50%);
+}
+.rectangle-9521 {
+  left: 50%; /* Adjust as needed */
+  transform: translateX(-50%);
+}
+@media screen and (max-width: 768px) {
+  /* Styles for smaller screens */
+  .landing-page {
+    /* Adjust styles accordingly */
+  }
+}
+.get-beta-access {
+  font-size: 2vw; /* Adjust as needed */
+}
+
 .landing-page {
   background: #19191b;
   width: 1920px;
